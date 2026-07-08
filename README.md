@@ -162,6 +162,11 @@ ai_business_insights_platform/
 * **Optimized Big Data Handling:** Configured categorical pre-aggregation and dynamic string truncation rules to ensure responsive UI renders when uploading large datasets like the Olist e-commerce dataset.
 
 ---
+## Live Demo
+
+https://ai-business-insights-platform.streamlit.app/
+
+---
 
 ## 👨‍💻 Developed By
 
