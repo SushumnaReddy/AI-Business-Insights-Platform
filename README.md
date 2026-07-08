@@ -30,6 +30,38 @@ I built this platform to explore how Large Language Models can support business 
 
 ---
 
+## Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+### AI Executive Brief
+
+![Executive Brief](screenshots/ai-brief.png)
+
+---
+
+### AI Consultant
+
+![AI Chat](screenshots/ai-consultant.png)
+
+---
+
+### PDF Export
+
+![PDF Export](screenshots/pdf-export.png)
+
+---
+
+### PowerPoint Export
+
+![PowerPoint Export](screenshots/ppt-export.png)
+
+---
+
 ## 🧠 AI Transparency Note
 
 Recommendations and insights are generated using pre-calculated business metrics, detected trends, and context from the uploaded dataset. These materials are intended solely to support decision-making and should be reviewed and validated by a human analyst before making business decisions.
